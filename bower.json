@@ -1,0 +1,19 @@
+{
+  "name": "angular-material-badge",
+  "version": "1.2.91",
+  "description": "Material Badge for AngularJS",
+  "main": [
+    "source/angular-material-badge.js",
+    "source/angular-material-badge.css"
+  ],
+  "repository": "https://github.com/alograg/angular-material-badge",
+  "author": "Juan Manuel <jmouriz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4 - 1.7.0 || ^1.7.2",
+    "angular-animate": "1.4 - 1.7.0 || ^1.7.2",
+    "angular-aria": "1.4 - 1.7.0 || ^1.7.2",
+    "angular-messages": "1.4 - 1.7.0 || ^1.7.2"
+    "angular-material": "^1.1.21"
+  }
+}
